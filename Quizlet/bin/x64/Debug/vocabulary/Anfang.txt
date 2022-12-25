@@ -1,0 +1,503 @@
+der Anfang
+начало
+
+der Buchhalter
+бухгалтер
+
+die Buchhalterin
+бухгалтерша
+
+nehmen
+брать
+
+-als
+в качестве (чего-либо, кого-либо)
+
+wichtig
+важный
+
+dumm
+глупый
+
+das Mädchen
+девушка
+
+machen
+делать
+
+ergänzen
+дополнять
+
+fahren
+ездить
+
+verheiratet
+женатый
+
+fragen
+задавать вопросы
+
+das Fragezeichen
+знак вопроса
+
+das Satzzeichen
+знак препинания
+
+wissen
+знать
+
+spielen
+играть
+
+gehen
+идти
+
+was
+что
+
+wo
+где
+
+wer
+кто
+
+wie
+как
+
+welcher
+какой
+
+welchen
+который
+
+wohin
+куда
+
+woher
+откуда
+
+wann
+когда
+
+schön
+красивый
+
+essen
+кушать
+
+das Bisschen
+кусочек
+
+viel
+много
+
+können
+мочь
+
+heißen
+называться
+
+auswendig
+наизусть
+
+anfangen
+начинать
+
+brauchen
+нуждаться
+
+die Erholung
+отдых
+
+schreiben
+писать
+
+kaufen
+покупать
+
+der Satz
+предложение
+
+ordnen
+упорядочивать
+
+kommen
+приходить
+
+Es tut mir leid
+Простите, пожалуйста
+
+lesen
+читать
+
+oder
+разве не так
+
+früh
+ранний
+
+arbeitet
+работать
+
+Freut mich
+Рад с Вами познакомиться
+
+das Kind
+ребенок
+
+gern
+с удовольствием
+
+heute
+сегодня
+
+jetzt
+сейчас
+
+wieder
+снова
+
+ein klein bisschen
+совсем немножко
+
+werden
+становиться
+
+stehen
+стоять
+
+nur
+только
+
+der Punkt
+точка
+
+da
+тут
+
+klug
+умный
+
+möchte
+хотеть
+
+wollen
+хотеть
+
+das Viertel
+четверть
+
+Es stimmt
+Это правда
+
+das Spiegelei
+яичница
+
+ansehen
+рассматривать
+
+das Bild
+картинка
+
+hören
+слушать
+
+noch
+еще
+
+noch einmal
+еще раз
+
+ankreuzen
+зачеркивать
+
+das Gespräch
+разговор
+
+suchen
+искать
+
+zeigen
+указывать
+
+nachsprechen
+повторять
+
+raten
+советовать
+
+das Wort
+слово
+
+meinen
+полагать
+
+sagen
+говорить
+
+notieren
+записывать
+
+vergleichen
+сравнивать
+
+variieren
+отличаться
+
+erzählen
+рассказывать
+
+zeichnen
+рисовать
+
+verbinden
+соединять
+
+die Antwort
+ответ
+
+antworten
+отвечать
+
+der Lehrer
+учитель
+
+die Lehrerin
+учительница
+
+lernen
+учить
+
+auch
+также
+
+haben
+иметь
+
+die Familie
+семья
+
+die Eltern
+родители
+
+die Geschwister
+братья и сестры
+
+das Jahr
+год
+
+Na ja, es geht
+Да так, сойдет
+
+der Enkel
+внук
+
+die Enkelin
+внучка
+
+die Tochter
+дочка
+
+der Sohn
+сын
+
+die Schwester
+сестра
+
+die Oma
+бабушка
+
+die Großmutter
+бабушка
+
+der Mann
+муж, мужчина
+
+der Opa
+дедушка
+
+der Großvater
+дедушка
+
+dein-
+твой
+
+mein-
+мой
+
+Ihr-
+ваш
+
+falsch
+ложный
+
+genau
+точный
+
+zusammen
+вместе
+
+geschieden
+развод
+
+ihr
+вы
+
+wir
+мы
+
+uns
+нас
+
+die Zahl
+цифра
+
+geboren
+родиться
+
+liegen
+лежать
+
+alt
+старый
+
+der Geburtsort
+место рождения
+
+der Wohnort
+место проживания
+
+der Familienstand
+семейное положение
+
+ledig
+холостой
+
+verwitwet
+вдовец
+
+das Alter
+возраст
+
+die Hauptstadt
+столица
+
+kennen
+знать
+
+also
+итак
+
+hier
+здесь
+
+aber
+но
+
+sehr
+очень
+
+schon
+уже
+
+lange
+долго
+
+der Arzt
+доктор
+
+zurzeit
+на данный момент
+
+wie sagt man das
+как ты это говоришь
+
+lösen
+решать, распутывать
+
+rätsel
+головоломка
+
+passen
+подходить, сочетаться
+
+reicht
+достаточно
+
+aufgabe
+задача
+
+zuerst
+сперва
+
+ganz
+весь, целый, полный
+
+einfach
+легкий
+
+etwas
+немного
+
+fertig
+готовый
+
+zettel
+примечание, записка
+
+grüß gott
+здравствуйте
+
+dafür
+для этого
+
+sammeln
+собирать, накапливать
+
+das Wörterbuch
+словарь
+
+sonst
+еще, кроме того
+
+gleichfalls
+взаимно
+
+der Pfeil
+стрелка
+
+der Namen
+существительное
+
+insgesamt
+в общем, в целом
+
+
+das war's
+это все
+
+gar nicht
+совсем нет
+
+gewöhnlich
+обычный, простой
+
+im ganzen
+в целом
+
+vor allem
+прежде всего
+
+wünschen
+желать
+
+
+
+
+
+
+
+
+
+
+
